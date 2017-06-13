@@ -1,0 +1,13 @@
+body {
+  background-color: #FFF;
+}
+
+.yes {
+  color: darkcyan;
+  background-color: yellow;
+}
+
+.no {
+  color: yellow;
+  background-color: darkcyan;
+}
